@@ -7,8 +7,9 @@
 1.  [SQL Full Course for Beginners (30 Hours)](https://www.youtube.com/watch?v=SSKVgrwhzus)
 2.  [bigdata engineering bootcamp with gcp and azure cloud](https://www.udemy.com/course/big-data-engineering-bootcamp-with-gcp-and-azure-cloud)
 
- For me it all took  **4–6 hours daily for about 3 months** 
+For me it all took  **4–6 hours daily for about 3 months** 😒
 
+ILOs will be, <br>
 ✅ Master ETL Pipelines, Big Data, and Distributed Systems <br>
 ✅ Understand Data Warehousing, Data Lakes, and Cloud Data Engineering <br>
 ✅ Learn Apache Spark, Kafka, Hive, Hadoop, PySpark** in depth<br>
@@ -16,9 +17,10 @@
 
 
 ---
-🔥 **Above 1 & 2 Will cover the below**
+🔥 **1 & 2 Will cover the below**
 ---
-& You can find the complete note about 500 Pages as a pdf.😁❤️
+& You can find the complete note about 500 Pages as a pdf.😁
+& I have included some of *.ipynb s also.But better to follow the bootcamp.😁
 
 ### 🔹 **SQL & Databases (MySQL + SQLite)**
 
