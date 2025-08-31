@@ -9,10 +9,10 @@
 
  For me it all took  **4–6 hours daily for about 3 months** 
 
-✅ Master ETL Pipelines, Big Data, and Distributed Systems \n
-✅ Understand Data Warehousing, Data Lakes, and Cloud Data Engineering \n
-✅ Learn Apache Spark, Kafka, Hive, Hadoop, PySpark** in depth\n
-✅ Build real-world scalable data engineering projects\n
+✅ Master ETL Pipelines, Big Data, and Distributed Systems <br>
+✅ Understand Data Warehousing, Data Lakes, and Cloud Data Engineering <br>
+✅ Learn Apache Spark, Kafka, Hive, Hadoop, PySpark** in depth<br>
+✅ Build real-world scalable data engineering projects<br>
 
 
 ---
