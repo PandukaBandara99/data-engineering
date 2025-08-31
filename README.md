@@ -7,7 +7,7 @@
 1.  [SQL Full Course for Beginners (30 Hours)](https://www.youtube.com/watch?v=SSKVgrwhzus)
 2.  [bigdata engineering bootcamp with gcp and azure cloud](https://www.udemy.com/course/big-data-engineering-bootcamp-with-gcp-and-azure-cloud)
 
- For me it all took about **4–6 hours daily for 3 months** 
+ For me it all took  **4–6 hours daily for about 3 months** 
 
 ✅ Master **ETL Pipelines, Big Data, and Distributed Systems**
 ✅ Understand **Data Warehousing, Data Lakes, and Cloud Data Engineering**
